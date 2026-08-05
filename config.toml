@@ -1,6 +1,6 @@
 # Site title
 title = "studiomettā"
-base_url = "https://studiometta.in"
+base_url = "https://musical-paprenjak-d5b9df.netlify.app"
 #"https://musical-paprenjak-d5b9df.netlify.app"#"https://studiometta.in"
 description = "Studio Metta Architecture and Design"
 compile_sass = true
