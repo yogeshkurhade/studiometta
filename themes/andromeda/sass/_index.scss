@@ -6,6 +6,12 @@ html, body {
     min-height: 100vh;
 }
 
+// Push footer to the bottom of the screen
+footer {
+    position: sticky;
+    top: 100vh;
+}
+
 // Eventually, let's make this a canvas element with some fancy text. For now, contrasty.
 #index-header {
     background-color: transparent;
