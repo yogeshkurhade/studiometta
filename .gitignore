@@ -5,9 +5,9 @@ public/
 .sass-cache/
 
 # Generated site files
-*.html
-*.css
-*.js
+# *.html
+# *.css
+# *.js
 
 # OS files
 .DS_Store
