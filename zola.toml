@@ -1,0 +1,23 @@
+# The URL the site will be built for
+base_url = "https://studiometta.in"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+title = "studiomettā"
+description = "studiomettā Architecture and Design"
+theme = "andromeda"
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+[markdown]
+
+[extra]
+header_links = [
+    {name = "Instagram", url = "https://www.instagram.com/studiometta/"}
+]
+# license = "CC BY-NC 2.0"
+# email = "yogeshkurhade@gmail.com"
+# name = "studiomettā"
+
+
