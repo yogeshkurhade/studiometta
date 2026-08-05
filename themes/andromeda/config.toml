@@ -1,0 +1,15 @@
+# Site title
+title = "Andromeda"
+base_url = "https://andromeda-theme.netlify.app"
+description = "Photography journal theme for Zola"
+compile_sass = true
+
+[extra]
+header_links = [
+    {name = "Zola", url = "https://www.getzola.org/"},
+    {name = "Blog", url = "https://andromeda-theme.netlify.app"}
+]
+license = "CC BY-NC 2.0"
+email = "jane@doe.com"
+name = "Jane Doe"
+# favicon = "/images/favicon.ico"
