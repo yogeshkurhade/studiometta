@@ -1,16 +1,16 @@
 # Site title
-title = "Andromeda"
+title = "studiomettā"
 base_url = "https://studiometta.in"
 description = "Studio Metta Architecture and Design"
 compile_sass = true
 theme = "andromeda"
 
+
 [extra]
 header_links = [
-    {name = "Zola", url = "https://www.getzola.org/"},
-    {name = "Blog", url = "https://andromeda-theme.netlify.app"}
+    {name = "Instagram", url = "https://www.instagram.com/studiometta/"}
 ]
-license = "CC BY-NC 2.0"
-email = "yogeshkurhade@gmail.com"
-name = "Studio Metta"
+# license = "CC BY-NC 2.0"
+# email = "yogeshkurhade@gmail.com"
+# name = "Studio Metta"
 # favicon = "/images/favicon.ico"
